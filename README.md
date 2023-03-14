@@ -69,7 +69,6 @@ Your project must fulfil the following requirements<a href="#references">*[1]*</
 ___
 # Deployment
 ## URL
-* The URL of the deployed application: https://daveheseltine.github.io/read-it-for-me/
 * The URL of the GitHub Repository: https://github.com/daveheseltine/read-it-for-me
 
 </br>
